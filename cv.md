@@ -51,6 +51,6 @@ function checkAge(age) {
   return (age > 18) ? true : confirm('Родители разрешили?');
 }
 ```
-### Courses:
+### Courses:::
 * HTML and CSS Tutorials on the w3schools
 * JS Manual on [learnjavascript]: https://learn.javascript.ru/first-steps (in progress)
