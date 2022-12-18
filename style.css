@@ -1,6 +1,7 @@
 *{
     margin :0;
     padding: 0;
+    
 
 }
 body{
@@ -36,9 +37,11 @@ footer{
     background-color:black;
     height:80px;
     margin-left:600px;
+    margin-top:100px;
 }
 main{
     color:black;
+    margin-top:60px;
 }
 a{
     text-decoration:none;
@@ -49,14 +52,67 @@ a{
 footer li{
     display:inline-block;
     margin-top:35px;
-    margin-left:200px;
+  margin-left:100px;
    
     
 }
 
 img{
     margin-left:600px;
+    display:inline-block;
 }
 footer ul{
    margin-top:10px;
+   margin-left:230px;
+   
+}
+img{
+    display:inline-block;
+    float:left;
+}
+
+
+.key{
+    margin-bottom:100px;
+}
+
+.aboutmyself{
+   margin-left:840px;
+   margin-right:800px;
+   margin-top:40px;
+   font-size:25px;
+
+}
+.skills{
+    margin-left:840px;
+    margin-right:800px;
+    margin-top:40px;
+    font-size:25px;
+ 
+}
+.keystrengths{
+    margin-left:840px;
+    margin-right:800px;
+    margin-top:40px;
+    font-size:25px;
+}
+
+.codexample{
+    
+    margin-left:840px;
+    margin-right:800px;
+    margin-top:40px;
+    font-size:25px;
+}
+.education{ margin-left:840px;
+    margin-right:800px;
+    margin-top:40px;
+    font-size:25px;}
+    
+.contacts{
+    margin-left:840px;
+    margin-right:800px;
+    margin-top:40px;
+    font-size:25px;
+
 }
